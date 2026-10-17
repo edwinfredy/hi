@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Edwin Fredy
 ---
 
 # I'm Edwin.
