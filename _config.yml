@@ -1,2 +1,9 @@
-title: Hi!
+title: Edwin Fredy
 repository: edwinfredy/hi
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: null
