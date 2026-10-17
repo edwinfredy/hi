@@ -1,7 +1,3 @@
----
-title: Edwin Fredy
----
-
 # Hi! I'm Edwin.
 
 Check out my links:
