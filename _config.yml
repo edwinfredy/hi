@@ -1,7 +1,4 @@
 title: Edwin Fredy
 description: My Personal Website
 repository: edwinfredy/hi
-theme: minima
-
-minima:
-  skin: auto
+theme: default
