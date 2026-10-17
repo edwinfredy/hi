@@ -1,4 +1,5 @@
 title: Edwin Fredy
 description: My Personal Website
 repository: edwinfredy/hi
-theme: default
+plugins:
+  - jekyll-default-layout
