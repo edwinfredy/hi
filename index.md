@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
-# Hello!
+# Hello! I am Edwin Fredy.
 
-[GitHub](https://github.com/edwinfredy)
+Check out my links:
+
+[GitHub](https://github.com/edwinfredy/)
+
+[LinkedIn](https://www.linkedin.com/in/edwinfredy/)
+
