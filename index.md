@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hello! I am Edwin Fredy.
+# I am Edwin Fredy.
 
 Check out my links:
 
