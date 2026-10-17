@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# I am Edwin Fredy.
+# I'm Edwin'.
 
 Check out my links:
 
