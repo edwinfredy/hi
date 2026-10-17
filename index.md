@@ -2,7 +2,7 @@
 title: Edwin Fredy
 ---
 
-# I'm Edwin.
+# Hi! I'm Edwin.
 
 Check out my links:
 
