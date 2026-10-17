@@ -5,4 +5,4 @@ title: Home
 
 # Hello!
 
-My GitHub Pages site is live.
+[GitHub](https://github.com/edwinfredy)
