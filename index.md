@@ -1,5 +1,5 @@
 ---
-title: Edwin Fredy
+title: Home
 layout: default
 ---
 
