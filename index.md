@@ -1,7 +1,9 @@
 ---
-title: Hi! I'm Edwin
-layout: none
+title: Edwin Fredy
+layout: default
 ---
+
+# Hi, I'm Edwin.
 
 Check out my links:
 
