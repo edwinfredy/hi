@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Hi! I'm Edwin
+layout: none
 ---
-
-
-# Hi! I'm Edwin.
 
 Check out my links:
 
