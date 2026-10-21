@@ -13,7 +13,7 @@ Fan of all things that make the world tick.
 
 So much would be different if Linus Torvalds had made different choices.
 
-Trying to wrap my head around Music Theory in my free time.
+Trying to wrap my head around music theory and quantum electrodynamics in my free time.
 
 Check out my links:
 
