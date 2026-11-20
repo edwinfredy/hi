@@ -15,10 +15,10 @@ So much would be different if Linus Torvalds had made different choices.
 
 Trying to wrap my head around music theory and quantum electrodynamics in my free time.
 
+My most recent project: [starring.edwinfredy.com](https://starring.edwinfredy.com).
+
 Check out my links:
 
 [GitHub](https://github.com/edwinfredy/)    [LinkedIn](https://www.linkedin.com/in/edwinfredy/)
-
-My most recent project: [starring.edwinfredy.com](https://starring.edwinfredy.com).
 
 You can contact me at <b>edwinfredy8[at]gmail[dot]com</b>.
