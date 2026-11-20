@@ -15,7 +15,7 @@ So much would be different if Linus Torvalds had made different choices.
 
 Trying to wrap my head around music theory and quantum electrodynamics in my free time.
 
-My most recent project: [starring.edwinfredy.com](https://starring.edwinfredy.com).
+My most recent project: <a href="https://starring.edwinfredy.com" target="_blank" rel="noopener noreferrer">starring.edwinfredy.com</a>
 
 Check out my links:
 
