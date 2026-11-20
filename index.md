@@ -19,4 +19,6 @@ Check out my links:
 
 [GitHub](https://github.com/edwinfredy/)    [LinkedIn](https://www.linkedin.com/in/edwinfredy/)
 
+My most recent project: [starring.edwinfredy.com](https://starring.edwinfredy.com).
+
 You can contact me at <b>edwinfredy8[at]gmail[dot]com</b>.
