@@ -9,7 +9,7 @@ function App() {
         <p>
           I got my Master's Degree in Information Security.
           <br />
-          Been tinkering with machines long before that.
+          Been tinkering with machines for about 12 years now.
           <br />
           Fan of all things that make the world tick.
         </p>
